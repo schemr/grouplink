@@ -17,6 +17,7 @@ import { AppComponent } from './app.component';
     FormsModule,
     HttpModule,
     BrowserAnimationsModule,
+    MdCardModule,
     MdButtonModule,
     MdCheckboxModule,
     MdIconModule
